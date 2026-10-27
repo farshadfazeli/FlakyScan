@@ -31,3 +31,4 @@ For every run, FlakyScan starts `dotnet test` with a TRX logger and stores the r
 ## Limitations
 
 FlakyScan does not create HTML or JSON reports, analyze failure patterns, run tests in parallel, or read configuration files. It is a source project rather than a packaged `dotnet tool`.
+
