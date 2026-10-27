@@ -1,4 +1,5 @@
 # FlakyScan
+[![CI](https://github.com/farshadfazeli/FlakyScan/actions/workflows/ci.yml/badge.svg)](https://github.com/farshadfazeli/FlakyScan/actions/workflows/ci.yml)
 
 FlakyScan runs a .NET test project or solution several times and reports tests that pass in some runs and fail in others.
 
