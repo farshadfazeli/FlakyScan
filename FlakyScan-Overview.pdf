@@ -1,0 +1,285 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Length 1024 >>
+stream
+0.04 0.07 0.13 rg 0 0 612 792 re f
+0.13 0.83 0.93 rg 0 0 612 10 re f
+0.39 0.36 1 rg 420 0 192 792 re f
+0.18 0.16 0.52 rg 420 0 192 792 re f
+0.13 0.83 0.93 rg BT /F1 11 Tf 54 704 Td (ENGINEERING REPORT  /  2026) Tj ET
+1 1 1 rg BT /F1 46 Tf 54 618 Td (FlakyScan) Tj ET
+0.82 0.86 0.95 rg BT /F1 17 Tf 54 580 Td (A practical .NET CLI for finding flaky tests) Tj ET
+0.13 0.83 0.93 rg 54 510 175 30 re f
+0.04 0.07 0.13 rg BT /F1 10 Tf 70 520 Td (PROJECT OVERVIEW) Tj ET
+1 1 1 rg BT /F1 15 Tf 54 420 Td (Run. Compare. Understand.) Tj ET
+0.76 0.8 0.9 rg BT /F1 11 Tf 54 395 Td (A small, focused tool that turns repeated test runs) Tj ET
+0.76 0.8 0.9 rg BT /F1 11 Tf 54 377 Td (into a clear Markdown report developers can act on.) Tj ET
+0.68 0.73 0.84 rg BT /F1 10 Tf 54 82 Td (Built with .NET 8  ?  TRX + System.Xml.Linq  ?  xUnit sample) Tj ET
+0.13 0.83 0.93 rg 438 544 116 116 re f
+0.13 0.83 0.93 rg 460 566 72 72 re f
+0.13 0.83 0.93 rg 483 589 26 26 re f
+1 1 1 RG 2.5 w 496 602 m 556 662 l S
+1 1 1 RG 2.5 w 496 602 m 496 555 l S
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 3023 >>
+stream
+0.97 0.98 1 rg 0 0 612 792 re f
+0.39 0.36 1 rg 0 782 612 10 re f
+0.39 0.36 1 rg BT /F1 9 Tf 42 744 Td (01  /  PRODUCT SHAPE) Tj ET
+0.04 0.07 0.13 rg BT /F1 28 Tf 42 704 Td (What we built) Tj ET
+0.35 0.39 0.48 rg BT /F1 11 Tf 42 674 Td (A deliberately small surface area, with each responsibility easy to find and test.) Tj ET
+0.86 0.88 0.93 RG 1 w 42 652 m 570 652 l S
+1 1 1 rg 42 548 164 112 re f
+0.39 0.36 1 rg 42 655 164 5 re f
+0.39 0.36 1 rg BT /F1 8 Tf 56 632 Td (RUN) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 56 608 Td (Repeat the same) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 56 592 Td (test command) Tj ET
+0.35 0.39 0.48 rg BT /F1 8 Tf 56 560 Td (TestRunner) Tj ET
+1 1 1 rg 224 548 164 112 re f
+0.13 0.83 0.93 rg 224 655 164 5 re f
+0.13 0.83 0.93 rg BT /F1 8 Tf 238 632 Td (READ) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 238 608 Td (Understand TRX) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 238 592 Td (results safely) Tj ET
+0.35 0.39 0.48 rg BT /F1 8 Tf 238 560 Td (TrxParser) Tj ET
+1 1 1 rg 406 548 164 112 re f
+0.13 0.77 0.43 rg 406 655 164 5 re f
+0.13 0.77 0.43 rg BT /F1 8 Tf 420 632 Td (DECIDE) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 420 608 Td (Detect mixed) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 420 592 Td (outcomes) Tj ET
+0.35 0.39 0.48 rg BT /F1 8 Tf 420 560 Td (FlakyDetector) Tj ET
+0.1 0.13 0.2 rg BT /F1 15 Tf 42 490 Td (The user experience) Tj ET
+0.39 0.36 1 rg 42 478 30 3 re f
+0.1 0.13 0.2 rg BT /F1 12 Tf 42 464 Td (The command has one central promise: show which tests changed behavior across runs.) Tj ET
+0.35 0.39 0.48 rg BT /F1 12 Tf 42 445 Td (That promise shaped the implementation and kept unrelated features out of scope.) Tj ET
+0.93 0.94 1 rg 42 300 250 112 re f
+0.39 0.36 1 rg 42 407 250 5 re f
+0.39 0.36 1 rg BT /F1 8 Tf 56 384 Td (INPUT) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 56 360 Td (--path <project-or-solution>) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 56 344 Td (--runs <positive number>) Tj ET
+0.35 0.39 0.48 rg BT /F1 8 Tf 56 312 Td (Simple arguments) Tj ET
+0.91 0.98 0.99 rg 320 300 250 112 re f
+0.13 0.83 0.93 rg 320 407 250 5 re f
+0.13 0.83 0.93 rg BT /F1 8 Tf 334 384 Td (OUTPUT) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 334 360 Td (Markdown table) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 334 344 Td (exit code 0 or 1) Tj ET
+0.35 0.39 0.48 rg BT /F1 8 Tf 334 312 Td (Terminal-friendly) Tj ET
+0.1 0.13 0.2 rg BT /F1 15 Tf 42 242 Td (Included in the repository) Tj ET
+0.39 0.36 1 rg 42 230 30 3 re f
+0.13 0.77 0.43 rg 45 214 8 8 re f
+0.1 0.13 0.2 rg BT /F1 11 Tf 64 214 Td (Console application targeting .NET 8) Tj ET
+0.13 0.77 0.43 rg 45 190 8 8 re f
+0.1 0.13 0.2 rg BT /F1 11 Tf 64 190 Td (Four small production classes) Tj ET
+0.13 0.77 0.43 rg 45 166 8 8 re f
+0.1 0.13 0.2 rg BT /F1 11 Tf 64 166 Td (Parser and detector unit tests) Tj ET
+0.13 0.77 0.43 rg 45 142 8 8 re f
+0.1 0.13 0.2 rg BT /F1 11 Tf 64 142 Td (Four-test sample project: two stable, two intentionally flaky) Tj ET
+0.13 0.77 0.43 rg 45 118 8 8 re f
+0.1 0.13 0.2 rg BT /F1 11 Tf 64 118 Td (GitHub Actions workflow for push and pull request validation) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 2948 >>
+stream
+0.97 0.98 1 rg 0 0 612 792 re f
+0.39 0.36 1 rg 0 782 612 10 re f
+0.39 0.36 1 rg BT /F1 9 Tf 42 744 Td (02  /  ARCHITECTURE) Tj ET
+0.04 0.07 0.13 rg BT /F1 28 Tf 42 704 Td (How a scan works) Tj ET
+0.35 0.39 0.48 rg BT /F1 11 Tf 42 674 Td (The pipeline is linear on purpose: run each time, parse each result, then compare outcomes.) Tj ET
+0.86 0.88 0.93 RG 1 w 42 652 m 570 652 l S
+0.1 0.13 0.2 rg BT /F1 15 Tf 42 620 Td (The scan pipeline) Tj ET
+0.39 0.36 1 rg 42 608 30 3 re f
+1 1 1 rg 42 482 116 104 re f
+0.39 0.36 1 rg 42 570 116 16 re f
+0.39 0.36 1 rg BT /F1 10 Tf 56 548 Td (01) Tj ET
+0.1 0.13 0.2 rg BT /F1 13 Tf 56 528 Td (CLI) Tj ET
+0.35 0.39 0.48 rg BT /F1 10 Tf 56 504 Td (Parse options) Tj ET
+0.35 0.39 0.48 rg BT /F1 10 Tf 56 489 Td (and validate path) Tj ET
+0.86 0.88 0.93 RG 1.4 w 164 534 m 186 534 l S
+0.86 0.88 0.93 RG 1.4 w 186 534 m 180 538 l S
+0.86 0.88 0.93 RG 1.4 w 186 534 m 180 530 l S
+1 1 1 rg 174 482 116 104 re f
+0.13 0.83 0.93 rg 174 570 116 16 re f
+0.13 0.83 0.93 rg BT /F1 10 Tf 188 548 Td (02) Tj ET
+0.1 0.13 0.2 rg BT /F1 13 Tf 188 528 Td (RUN) Tj ET
+0.35 0.39 0.48 rg BT /F1 10 Tf 188 504 Td (dotnet test) Tj ET
+0.35 0.39 0.48 rg BT /F1 10 Tf 188 489 Td (N times) Tj ET
+0.86 0.88 0.93 RG 1.4 w 296 534 m 318 534 l S
+0.86 0.88 0.93 RG 1.4 w 318 534 m 312 538 l S
+0.86 0.88 0.93 RG 1.4 w 318 534 m 312 530 l S
+1 1 1 rg 306 482 116 104 re f
+0.13 0.77 0.43 rg 306 570 116 16 re f
+0.13 0.77 0.43 rg BT /F1 10 Tf 320 548 Td (03) Tj ET
+0.1 0.13 0.2 rg BT /F1 13 Tf 320 528 Td (PARSE) Tj ET
+0.35 0.39 0.48 rg BT /F1 10 Tf 320 504 Td (Read TRX) Tj ET
+0.35 0.39 0.48 rg BT /F1 10 Tf 320 489 Td (with LINQ to XML) Tj ET
+0.86 0.88 0.93 RG 1.4 w 428 534 m 450 534 l S
+0.86 0.88 0.93 RG 1.4 w 450 534 m 444 538 l S
+0.86 0.88 0.93 RG 1.4 w 450 534 m 444 530 l S
+1 1 1 rg 438 482 116 104 re f
+0.96 0.62 0.08 rg 438 570 116 16 re f
+0.96 0.62 0.08 rg BT /F1 10 Tf 452 548 Td (04) Tj ET
+0.1 0.13 0.2 rg BT /F1 13 Tf 452 528 Td (DETECT) Tj ET
+0.35 0.39 0.48 rg BT /F1 10 Tf 452 504 Td (Group by test) Tj ET
+0.35 0.39 0.48 rg BT /F1 10 Tf 452 489 Td (and compare) Tj ET
+0.1 0.13 0.2 rg BT /F1 15 Tf 42 430 Td (The result model) Tj ET
+0.39 0.36 1 rg 42 418 30 3 re f
+0.04 0.07 0.13 rg 42 270 528 126 re f
+0.13 0.83 0.93 rg BT /F1 8 Tf 58 374 Td (TestResult) Tj ET
+1 1 1 rg BT /F1 10 Tf 58 348 Td (TestName     = fully qualified name
+Outcome      = Passed | Failed | Ignored
+
+FlakyTest) Tj ET
+0.72 0.78 0.9 rg BT /F1 10 Tf 58 331 Td (Passed       = count of pass outcomes
+Failed       = count of fail outcomes
+FailureRate  = Failed / \(Passed + Failed\)) Tj ET
+0.1 0.13 0.2 rg BT /F1 15 Tf 42 218 Td (Why skipped tests are ignored) Tj ET
+0.39 0.36 1 rg 42 206 30 3 re f
+0.1 0.13 0.2 rg BT /F1 11 Tf 42 192 Td (A skipped or not-executed test did not provide evidence of either success or failure.) Tj ET
+0.35 0.39 0.48 rg BT /F1 11 Tf 42 174 Td (Keeping it out of the denominator avoids turning an incomplete run into a false signal.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 2420 >>
+stream
+0.97 0.98 1 rg 0 0 612 792 re f
+0.39 0.36 1 rg 0 782 612 10 re f
+0.39 0.36 1 rg BT /F1 9 Tf 42 744 Td (03  /  DETECTION) Tj ET
+0.04 0.07 0.13 rg BT /F1 28 Tf 42 704 Td (From outcomes to signal) Tj ET
+0.35 0.39 0.48 rg BT /F1 11 Tf 42 674 Td (A flaky test is not merely a failure; it is a test whose result changes across runs.) Tj ET
+0.86 0.88 0.93 RG 1 w 42 652 m 570 652 l S
+0.04 0.07 0.13 rg 42 582 528 62 re f
+0.13 0.83 0.93 rg BT /F1 11 Tf 62 620 Td (FLAKY = at least one pass + at least one failure) Tj ET
+1 1 1 rg BT /F1 12 Tf 62 599 Td (Skipped outcomes are excluded before the comparison.) Tj ET
+0.1 0.13 0.2 rg BT /F1 15 Tf 42 532 Td (Example: five runs of the sample project) Tj ET
+0.39 0.36 1 rg 42 520 30 3 re f
+0.35 0.39 0.48 rg BT /F1 10 Tf 42 508 Td (Each bar shows the proportion of runs that failed for a test.) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 42 474 Td (Randomly_flaky_test) Tj ET
+0.91 0.92 0.96 rg 228 470 260 16 re f
+0.39 0.36 1 rg 228 470 104 16 re f
+0.39 0.36 1 rg BT /F1 11 Tf 498 473 Td (40%) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 42 432 Td (Timing_flaky_test) Tj ET
+0.91 0.92 0.96 rg 228 428 260 16 re f
+0.13 0.83 0.93 rg 228 428 52 16 re f
+0.13 0.83 0.93 rg BT /F1 11 Tf 498 431 Td (20%) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 42 390 Td (Stable_test_one) Tj ET
+0.91 0.92 0.96 rg 228 386 260 16 re f
+0.13 0.77 0.43 rg BT /F1 11 Tf 498 389 Td (0%) Tj ET
+0.1 0.13 0.2 rg BT /F1 15 Tf 42 338 Td (Report output) Tj ET
+0.39 0.36 1 rg 42 326 30 3 re f
+0.04 0.07 0.13 rg 42 310 528 24 re f
+1 1 1 rg BT /F1 9 Tf 54 318 Td (Test name) Tj ET
+1 1 1 rg BT /F1 9 Tf 392 318 Td (Passed) Tj ET
+1 1 1 rg BT /F1 9 Tf 452 318 Td (Failed) Tj ET
+1 1 1 rg BT /F1 9 Tf 512 318 Td (Failure rate) Tj ET
+0.96 0.96 1 rg 42 280 528 28 re f
+0.86 0.88 0.93 RG 0.7 w 42 280 m 570 280 l S
+0.1 0.13 0.2 rg BT /F1 9 Tf 54 289 Td (Randomly_flaky_test) Tj ET
+0.1 0.13 0.2 rg BT /F1 9 Tf 402 289 Td (3) Tj ET
+0.1 0.13 0.2 rg BT /F1 9 Tf 462 289 Td (2) Tj ET
+0.1 0.13 0.2 rg BT /F1 9 Tf 522 289 Td (40.0%) Tj ET
+1 1 1 rg 42 250 528 28 re f
+0.86 0.88 0.93 RG 0.7 w 42 250 m 570 250 l S
+0.1 0.13 0.2 rg BT /F1 9 Tf 54 259 Td (Timing_flaky_test) Tj ET
+0.1 0.13 0.2 rg BT /F1 9 Tf 402 259 Td (4) Tj ET
+0.1 0.13 0.2 rg BT /F1 9 Tf 462 259 Td (1) Tj ET
+0.1 0.13 0.2 rg BT /F1 9 Tf 522 259 Td (20.0%) Tj ET
+0.35 0.39 0.48 rg BT /F1 11 Tf 42 202 Td (Results are sorted by failure rate descending, so the strongest signal appears first.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 2559 >>
+stream
+0.97 0.98 1 rg 0 0 612 792 re f
+0.39 0.36 1 rg 0 782 612 10 re f
+0.39 0.36 1 rg BT /F1 9 Tf 42 744 Td (04  /  QUALITY) Tj ET
+0.04 0.07 0.13 rg BT /F1 28 Tf 42 704 Td (Verification, usage, and boundaries) Tj ET
+0.35 0.39 0.48 rg BT /F1 11 Tf 42 674 Td (The first version is intentionally complete for its job, without pretending to solve every testing problem.) Tj ET
+0.86 0.88 0.93 RG 1 w 42 652 m 570 652 l S
+0.1 0.13 0.2 rg BT /F1 15 Tf 42 620 Td (What we verified) Tj ET
+0.39 0.36 1 rg 42 608 30 3 re f
+1 1 1 rg 42 500 126 92 re f
+0.13 0.77 0.43 rg 42 587 126 5 re f
+0.13 0.77 0.43 rg BT /F1 28 Tf 58 544 Td (6) Tj ET
+0.35 0.39 0.48 rg BT /F1 9 Tf 58 520 Td (unit tests passing) Tj ET
+1 1 1 rg 190 500 126 92 re f
+0.39 0.36 1 rg 190 587 126 5 re f
+0.39 0.36 1 rg BT /F1 28 Tf 206 544 Td (0) Tj ET
+0.35 0.39 0.48 rg BT /F1 9 Tf 206 520 Td (build warnings) Tj ET
+1 1 1 rg 338 500 126 92 re f
+0.13 0.83 0.93 rg 338 587 126 5 re f
+0.13 0.83 0.93 rg BT /F1 28 Tf 354 544 Td (4) Tj ET
+0.35 0.39 0.48 rg BT /F1 9 Tf 354 520 Td (sample tests) Tj ET
+1 1 1 rg 486 500 126 92 re f
+0.96 0.62 0.08 rg 486 587 126 5 re f
+0.96 0.62 0.08 rg BT /F1 28 Tf 502 544 Td (1) Tj ET
+0.35 0.39 0.48 rg BT /F1 9 Tf 502 520 Td (clear CLI job) Tj ET
+0.1 0.13 0.2 rg BT /F1 15 Tf 42 448 Td (Try it) Tj ET
+0.39 0.36 1 rg 42 436 30 3 re f
+0.04 0.07 0.13 rg 42 340 528 82 re f
+0.13 0.83 0.93 rg BT /F1 8 Tf 58 400 Td (COMMAND) Tj ET
+1 1 1 rg BT /F1 10 Tf 58 374 Td (dotnet run --project src/FlakyScan --) Tj ET
+0.72 0.78 0.9 rg BT /F1 10 Tf 58 357 Td (  --path ./samples/FlakySample --runs 5) Tj ET
+0.1 0.13 0.2 rg BT /F1 11 Tf 42 310 Td (Add --fail-on-flaky when a CI job should fail if any mixed outcome is found.) Tj ET
+0.1 0.13 0.2 rg BT /F1 15 Tf 42 262 Td (Kept intentionally out of scope) Tj ET
+0.39 0.36 1 rg 42 250 30 3 re f
+0.94 0.95 0.98 rg 42 222 156 30 re f
+0.35 0.39 0.48 rg BT /F1 9 Tf 54 232 Td (HTML or JSON reports) Tj ET
+0.94 0.95 0.98 rg 210 222 156 30 re f
+0.35 0.39 0.48 rg BT /F1 9 Tf 222 232 Td (Failure-pattern analysis) Tj ET
+0.94 0.95 0.98 rg 378 222 156 30 re f
+0.35 0.39 0.48 rg BT /F1 9 Tf 390 232 Td (Parallel test runs) Tj ET
+0.94 0.95 0.98 rg 42 182 156 30 re f
+0.35 0.39 0.48 rg BT /F1 9 Tf 54 192 Td (Configuration files) Tj ET
+0.94 0.95 0.98 rg 210 182 156 30 re f
+0.35 0.39 0.48 rg BT /F1 9 Tf 222 192 Td (dotnet tool packaging) Tj ET
+0.35 0.39 0.48 rg BT /F1 11 Tf 42 105 Td (The result is a small codebase that is straightforward to review, run, and extend later.) Tj ET
+0.39 0.36 1 rg BT /F1 10 Tf 42 78 Td (FlakyScan  /  Engineering report) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000141 00000 n 
+0000001216 00000 n 
+0000001343 00000 n 
+0000004417 00000 n 
+0000004544 00000 n 
+0000007543 00000 n 
+0000007670 00000 n 
+0000010141 00000 n 
+0000010269 00000 n 
+0000012880 00000 n 
+0000013009 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+13080
+%%EOF
